@@ -1,6 +1,6 @@
 # CNV
 
-**IREI FAZER UPDATE DO MARKDOWN NO FUTURO** 
+## Notas Iniciais
 O objectivo desde projecto foi criar um sistema que recebia informações de uma front end com o objectivo de computar coordenadas em gráficos para calcular alturas consoante diversos tipos possíveis de algoritmos (Astar, BFS, DFS). A nota deste projecto foi 17.8. Este projecto foi avaliado pelo responsável da cadeira, o Professor Luís Veiga, e pelo Bolseiro Nuno Anselmo.
 
 ## Módulos
@@ -16,5 +16,3 @@ O objectivo desde projecto foi criar um sistema que recebia informações de uma
 - 82069 - José Brás - MEIC-T 
 - 84609 - Marco Coelho - MEIC-T
 - 84897 - Dário Sá - MEIC-T
--
--
