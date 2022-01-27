@@ -13,6 +13,6 @@ O objectivo desde projecto foi criar um sistema que recebia informações de uma
 - As configurações do sistema estão localizadas no ficheiro rc.local
 
 ## Grupo 11
-- 82069 - José Brás - MEIC-T 
-- 84609 - Marco Coelho - MEIC-T
-- 84897 - Dário Sá - MEIC-T
+- 82069 - José Brás - MEIC-T (Classificação final obtida: 16 valores) https://github.com/ist182069
+- 84609 - Marco Coelho - MEIC-T (Classificação final obtida: 16 valores) https://github.com/OCoise
+- 84897 - Dário Sá - MEIC-T (Classificação final obtida: 15 valores) https://github.com/dariosa
