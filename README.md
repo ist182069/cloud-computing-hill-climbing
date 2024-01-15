@@ -1,7 +1,7 @@
 # CNV
 
 ## Notas Iniciais
-O objectivo desde projecto foi criar um sistema que recebia informações de uma front end com o objectivo de computar coordenadas em gráficos para calcular alturas consoante diversos tipos possíveis de algoritmos (Astar, BFS, DFS). A nota deste projecto foi 17.8. Este projecto foi avaliado pelo responsável da cadeira, o Professor Luís Veiga, e pelo Bolseiro Nuno Anselmo.
+O objectivo desde projecto foi criar um sistema que recebia informações de uma front end com o objectivo de computar coordenadas em gráficos para calcular alturas consoante diversos tipos possíveis de algoritmos (Astar, BFS, DFS). A nota deste projecto foi 17.8/20. Este projecto foi avaliado pelo responsável da cadeira, o Professor Luís Veiga, e pelo Bolseiro Nuno Anselmo.
 
 ## Módulos
 - *./Enunciado* contém o enunciado deste projecto.
@@ -13,6 +13,6 @@ O objectivo desde projecto foi criar um sistema que recebia informações de uma
 - As configurações do sistema estão localizadas no ficheiro rc.local
 
 ## Grupo 11
-- 82069 - José Brás - MEIC-T (Classificação final obtida: 16 valores) https://github.com/ist182069
-- 84609 - Marco Coelho - MEIC-T (Classificação final obtida: 16 valores) https://github.com/OCoise
-- 84897 - Dário Sá - MEIC-T (Classificação final obtida: 15 valores) https://github.com/dariosa
+- 82069 - José Brás - MEIC-T (Classificação final obtida: 16/20 valores) https://github.com/ist182069
+- 84609 - Marco Coelho - MEIC-T (Classificação final obtida: 16/20 valores) https://github.com/OCoise
+- 84897 - Dário Sá - MEIC-T (Classificação final obtida: 15/20 valores) https://github.com/dariosa
